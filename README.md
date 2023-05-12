@@ -26,7 +26,7 @@
 <div align="center">
   
   <a href="https://github.com/thiagokubrusly" onmouseover="this.style.textDecoration='none'">
-    <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokubrusly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagokubrusly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
     <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokubrusly&layout=compact&langs_count=7&theme=github_dark" />
   </a>
   
