@@ -9,7 +9,9 @@
 
 <div>
   <!-- <p>Lorem ipassndjasnd.</p>
-  <p>Lodn nsajdnsgs ajdnsajdnsa jn dsjandas smksmdk dsmdk dkmdkmkdfksdmf dsm dlmksdmf dksm jdnasjnd.</p>
+
+  <p>Comecei a me interessar por programação em 2022, quando comecei minha transição de carreira do direito para a área de desenvolvimento de sistemas. Atualmente sou um desenvolvedor frontend com conhecimento em Java Script, CSS e HTML. Sou aluno do Programa Desenvolve 2023, através do qual venho adquirindo conhecimentos também em backend. Tenho buscado aprimorar minhas habilidades técnicas por meio da construção de um portfolio orientado para o atendimento de necessidades do dia a dia.</p>
+
   <p>Mmskcmisndsandlasmd sakndas dskada sd skada sdksamda sdjsnad .</p> -->
 </div>
 
