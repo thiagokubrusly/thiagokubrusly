@@ -8,11 +8,11 @@
 <br>
 
 <div>
-  <!-- <p>Lorem ipassndjasnd.</p>
+ <!-- <p>Comecei a programar em 2022, quando iniciei a minha transição de carreira do Direito para a área de programação. Durante a minha experiência na advocacia, desenvolvi as habilidades de priorização, análise crítica e foco no cliente, fatores que me auxiliam cotidianamente nas minhas atividades como programador.</p>
 
-  <p>Comecei a me interessar por programação em 2022, quando comecei minha transição de carreira do direito para a área de desenvolvimento de sistemas. Atualmente sou um desenvolvedor frontend com conhecimento em Java Script, CSS e HTML. Sou aluno do Programa Desenvolve 2023, através do qual venho adquirindo conhecimentos também em backend. Tenho buscado aprimorar minhas habilidades técnicas por meio da construção de um portfolio orientado para o atendimento de necessidades do dia a dia.</p>
-
-  <p>Mmskcmisndsandlasmd sakndas dskada sd skada sdksamda sdjsnad .</p> -->
+     <p>Sou aluno bolsista do Programa Desenvolve 2023, do Grupo Boticário em parceria com a Alura, aonde lido com tecnologias de frontend e backend..</p>
+  
+    <p>Atualmente tenho buscado aplicar os conhecimentos aprendidos no Programa Desenvolve e nos meus estudos particulares em projetos práticos orientados à consolidação e aprimoramento dos meus conhecimento técnicos.</p> -->
 </div>
 
 ##
