@@ -7,7 +7,7 @@
 
 <br>
 
- <p>Comecei a programar em 2022, quando iniciei a minha transição de carreira do Direito para a área de programação. Durante a minha experiência na advocacia, desenvolvi as habilidades de priorização, análise crítica e foco no cliente, fatores que me auxiliam cotidianamente nas minhas atividades como programador.<br><br> Sou aluno bolsista do Programa Desenvolve 2023, do Grupo Boticário em parceria com a Alura, aonde lido com tecnologias de frontend e backend.<br><br> Atualmente tenho buscado aplicar os conhecimentos aprendidos no Programa Desenvolve e nos meus estudos particulares em projetos práticos orientados à consolidação e aprimoramento dos meus conhecimento técnicos. </p>
+ <p>Comecei a programar em 2022, quando iniciei a minha transição de carreira do Direito para a área de programação. Durante a minha experiência na advocacia, desenvolvi as habilidades de priorização, análise crítica e foco no cliente, fatores que me auxiliam cotidianamente nas minhas atividades como programador.<br><br> Sou aluno bolsista do Programa Desenvolve 2023, do Grupo Boticário em parceria com a Alura, no qual lido com tecnologias de frontend e backend.<br><br> Atualmente tenho buscado aplicar os conhecimentos aprendidos no Programa Desenvolve e nos meus estudos particulares em projetos práticos orientados à consolidação e aprimoramento dos meus conhecimento técnicos. </p>
   
 
 ##
